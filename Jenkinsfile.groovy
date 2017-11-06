@@ -50,3 +50,4 @@ node {
 def parseJson(String json) {
 	return new JsonSlurperClassic().parseText(json)
 }
+test
